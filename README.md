@@ -11,6 +11,7 @@ Crazy effects with a ton of parameters to play with such as color intensity, cur
 ![Randomizer](/screenshots/randomizer.png)
 All of the textures got scrambled, and get rescrambled everyday! Still a WIP.  
 [Randomizer Download](https://github.com/XorDev/Randomizer-Shaderpack/archive/master.zip) | [GitHub Page](https://github.com/XorDev/Randomizer-Shaderpack)
+<br>
 Also [here](https://github.com/XorDev/GameNight-Shaderpack)'s the GameNight variant, which randomizes every individual block, instead of each type block type. It's even more challenging!
 
 # Vaporwave Shaderpack
