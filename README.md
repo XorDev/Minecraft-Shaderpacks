@@ -2,6 +2,10 @@
 
 To use these shaderpacks you first need [Optifine](https://optifine.net/downloads). Then simply download a pack using the links below and drag the zip to the .minecraft/shaderpacks folder.
 
+# Ominous Shaderpack
+![Ominous](https://i.imgur.com/SoZg76R.png)
+[Ominous Download](https://github.com/XorDev/Ominous-Shaderpack/archive/refs/heads/main.zip) | [GitHub Page](https://github.com/XorDev/Ominous-Shaderpack/wiki)
+
 # DOF Shaderpack
 ![DOF](/screenshots/dof.png)
 Here's a Depth of Field shaderpack. Make your world more beautiful with this!
