@@ -2,6 +2,8 @@
 
 To use these shaderpacks you first need [Optifine](https://optifine.net/downloads). Then simply download a pack using the links below and drag the zip to the .minecraft/shaderpacks folder.
 
+Also, we now have a [Discord server](https://discord.gg/5HWWSMtc38)!
+
 # Ominous Shaderpack
 ![Ominous](https://i.imgur.com/SoZg76R.png)
 [Ominous Download](https://github.com/XorDev/Ominous-Shaderpack/archive/refs/heads/main.zip) | [GitHub Page](https://github.com/XorDev/Ominous-Shaderpack/wiki)
